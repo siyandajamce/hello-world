@@ -1,2 +1,6 @@
 # hello-world
-First repository for the bootcamp 
+
+
+Hello everyone!
+
+I like to code I find it cool! 
